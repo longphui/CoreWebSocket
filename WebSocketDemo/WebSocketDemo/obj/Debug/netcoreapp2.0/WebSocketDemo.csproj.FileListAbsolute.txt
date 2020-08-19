@@ -8,3 +8,14 @@ E:\项目\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebS
 E:\项目\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.AssemblyInfo.cs
 E:\项目\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.dll
 E:\项目\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.pdb
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\bin\Debug\netcoreapp2.0\WebSocketDemo.deps.json
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\bin\Debug\netcoreapp2.0\WebSocketDemo.runtimeconfig.json
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\bin\Debug\netcoreapp2.0\WebSocketDemo.runtimeconfig.dev.json
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\bin\Debug\netcoreapp2.0\WebSocketDemo.dll
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\bin\Debug\netcoreapp2.0\WebSocketDemo.pdb
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.csprojAssemblyReference.cache
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.csproj.CoreCompileInputs.cache
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.AssemblyInfoInputs.cache
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.AssemblyInfo.cs
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.dll
+C:\Users\50264\work\project\CoreWebSocket\WebSocketDemo\WebSocketDemo\obj\Debug\netcoreapp2.0\WebSocketDemo.pdb
